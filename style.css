@@ -1,1 +1,9 @@
-
+@font-face {
+    font-family: 'Harry Potter';
+    src: url(./fonts/HARRP___.TTF);
+}
+h2 {
+    font-family: 'Harry Potter', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
